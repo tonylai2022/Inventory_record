@@ -1,10 +1,10 @@
-# Inventory Tracking Application 
+# Inventory Record Application 
 
 ## About this project
 * This project is an inventory tracking web application for a logistics company.
 
 ## Features
-* Provides basic CRUD Functionaliies:
+* Provides basic CRUD Functionalities:
     * [x] Create inventory items
     * [x] Edit Them
     * [x] Delete Them
