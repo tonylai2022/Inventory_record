@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta asin="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inventory</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1>Inventory Data</h1>
+    <form id="createItem">
+        <input type="text" placeholder="Item asin" asin="asin" required>
+        <input type="number" placeholder="Item stock (i.e. quantity)" asin="stock" required max="2147483647" min="0">
+        <input type="number" placeholder="Item price" asin="price" required max="2147483647" min="0">
+        <input type="submit" id="submitButton" value="Create new item">
+    </form>
+    <div id="loading-status"></div>
+    <div id="inventory">
+
+    </div>
+        <a href="/csv">
+            <button>Download CSV</button>
+        </a>
+</body>
+<script src="./index.js"></script>
+</html>
