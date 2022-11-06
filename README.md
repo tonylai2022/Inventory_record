@@ -1,7 +1,7 @@
 # Inventory Record Application 
 
 ## About this project
-* This project is an inventory tracking web application for a logistics company.
+* This project is an inventory record web application for an e-commerce company.
 
 ## Features
 * Provides basic CRUD Functionalities:
