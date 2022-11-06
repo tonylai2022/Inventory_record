@@ -1,4 +1,4 @@
-Inventory Record Application
+#Inventory Record Application
 About this project
 This project is an inventory tracking web application for a logistics company.
 Features
