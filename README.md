@@ -1,7 +1,7 @@
 # Inventory Record Application 
 
 ## About this project
-* This project is an inventory record web application for the e-commerce company I am working now to manage products, stocks and prices.
+* This project is an inventory record web application for an e-commerce company to manage products, stocks and prices.
 
 ## Features
 * Provides basic CRUD Functionalities:
